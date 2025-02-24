@@ -8,9 +8,6 @@ import org.springframework.stereotype.Component;
 import java.time.LocalDateTime;
 
 /**
- * @author frx
- * @version 1.0
- * @date 2022/5/7  19:59
  * 自定义元数据对象处理器
  */
 @Component //Bean

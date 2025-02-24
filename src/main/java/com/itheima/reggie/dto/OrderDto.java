@@ -8,11 +8,6 @@ import com.itheima.reggie.entity.Orders;
 
 import lombok.Data;
 
-/**
- * @author frx
- * @version 1.0
- * @date 2022/7/15  20:06
- */
 @Data
 public class OrderDto extends Orders {
 

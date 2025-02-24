@@ -30,9 +30,6 @@ import com.itheima.reggie.service.DishService;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @author frx
- * @version 1.0
- * @date 2022/5/10  22:53
  * 菜品管理
  */
 @RestController

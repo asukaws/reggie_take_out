@@ -18,9 +18,6 @@ import jakarta.servlet.http.HttpServletResponse;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @author frx
- * @version 1.0
- * @date 2022/5/6  21:20
  * 文件上传和下载
  */
 @RestController

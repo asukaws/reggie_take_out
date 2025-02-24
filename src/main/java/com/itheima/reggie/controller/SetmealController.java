@@ -34,9 +34,6 @@ import com.itheima.reggie.service.SetmealService;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @author frx
- * @version 1.0
- * @date 2022/5/12  18:16
  * 套餐管理
  */
 @RestController

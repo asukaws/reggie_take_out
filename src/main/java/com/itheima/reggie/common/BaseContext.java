@@ -1,11 +1,5 @@
 package com.itheima.reggie.common;
 
-/**
- * @author frx
- * @version 1.0
- * @date 2022/5/7  21:10
- * 基于ThreadLocal封装的工具类，用于保存和获取当前登录用户的id
- */
 public class BaseContext {
 
     private static ThreadLocal<Long>  threadLocal=new ThreadLocal<>();

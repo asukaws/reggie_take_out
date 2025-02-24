@@ -9,12 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.sql.SQLIntegrityConstraintViolationException;
 
-/**
- * @author frx
- * @version 1.0
- * @date 2022/4/29  16:20
- * desc:全局异常处理
- */
 @ControllerAdvice(annotations = {RestController.class,Controller.class})  //拦截类上面加了RestController注解或者Controller的controller\
 @ResponseBody
 @Slf4j

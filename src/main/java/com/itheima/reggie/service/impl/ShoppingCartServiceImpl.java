@@ -11,7 +11,6 @@ import com.itheima.reggie.service.ShoppingCartService;
 
 import lombok.extern.slf4j.Slf4j;
 
-
 @Service
 @Slf4j
 public class ShoppingCartServiceImpl extends ServiceImpl<ShoppingCartMapper, ShoppingCart> implements ShoppingCartService {
